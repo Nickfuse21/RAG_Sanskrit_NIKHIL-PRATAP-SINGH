@@ -120,10 +120,12 @@ GEMINI_API_KEY=your_api_key_here
 ## // EXECUTION
 
 # STEP 1 — Build Database
-python fill_db.py
+First run python fill_db.py
+if got any error run it again
 
 # STEP 2 — Ask Questions
-python ask.py
+Then run python ask.py
+and it will let you ask question and retrieve answers based on the uploaded data file
 
 # Enter Sanskrit Query in Terminal
 Example:
